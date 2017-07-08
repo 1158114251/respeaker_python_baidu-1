@@ -7,8 +7,8 @@ from respeaker import Microphone
 from respeaker.baidu_speech_api import BaiduVoiceApi               
 
 # get a APIKey and SecretKey from http://yuyin.baidu.com/
-APP_KEY = ''
-SECRET_KEY = ''      
+APP_KEY = 'LNQdeGamXwWeUGuZH9k6GM4B'
+SECRET_KEY = '4YwSbEGOaUgyU3R0ZKBKpbicWTboUgd2'      
 
 
 def task(quit_event):                                                         
